@@ -39,7 +39,7 @@ export function Contact() {
                     </label>
                     <Input
                       className="bg-transparent border-0 border-b border-foreground/20 rounded-none focus-visible:ring-0 focus-visible:border-primary px-0 text-lg"
-                      placeholder="John"
+                      placeholder="Farruh"
                     />
                   </div>
                   <div className="space-y-2">
@@ -48,7 +48,7 @@ export function Contact() {
                     </label>
                     <Input
                       className="bg-transparent border-0 border-b border-foreground/20 rounded-none focus-visible:ring-0 focus-visible:border-primary px-0 text-lg"
-                      placeholder="Doe"
+                      placeholder="Rahimov"
                     />
                   </div>
                 </div>
