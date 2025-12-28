@@ -30,7 +30,7 @@ export function Footer() {
                   </a>
                 </li>
                 <li>
-                  <a href="#contact" className="hover:text-primary transition-colors">
+                  <a href="farrukhrakhimoff@gmail.com" className="hover:text-primary transition-colors">
                     Contact
                   </a>
                 </li>
