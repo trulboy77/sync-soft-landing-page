@@ -85,8 +85,8 @@ export function Footer() {
         </div>
 
         <div className="pt-8 border-t flex flex-col md:flex-row justify-between items-center gap-4 text-[10px] font-bold uppercase tracking-[0.2em] opacity-50">
-          <div>© {new Date().getFullYear()} SYNCSOFT. ALL RIGHTS RESERVED.</div>
-          <div className="text-center md:text-right">UZBEKISTAN • TURKEY • UAE • GLOBAL</div>
+          <div>© {new Date().getFullYear()} SYNCSOFT{CODE HERO}. ALL RIGHTS RESERVED.</div>
+          <div className="text-center md:text-right">codeherosllc@gmail.com   +998 97-376-65-56</div>
         </div>
 
         {/* Large Brand Background Element */}
