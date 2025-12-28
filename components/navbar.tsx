@@ -31,7 +31,7 @@ export function Navbar() {
           <a href="#approach" className="hover:text-primary transition-colors cursor-pointer">
             {t.nav.approach}
           </a>
-          <a href="#contact" className="hover:text-primary transition-colors cursor-pointer">
+          <a href="codeherosllc@gmail.com" className="hover:text-primary transition-colors cursor-pointer">
             {t.nav.contact}
           </a>
         </div>
