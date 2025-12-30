@@ -60,7 +60,7 @@ export function Contact() {
                   <Input
                     type="email"
                     className="bg-transparent border-0 border-b border-foreground/20 rounded-none focus-visible:ring-0 focus-visible:border-primary px-0 text-lg"
-                    placeholder="email@example.com"
+                    placeholder="sizning@email.com"
                   />
                 </div>
 
